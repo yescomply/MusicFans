@@ -16,3 +16,8 @@ db = FansDb("ArtistsFans.db")
 '''
 
 show_menu(db)
+
+i = 0
+while i>=0:
+    print("infinite loops!", i)
+    i=i+1
